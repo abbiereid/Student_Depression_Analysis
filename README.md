@@ -1,2 +1,3 @@
-# ChessPrediction
-CI603, Data mining,  submission.
+# Chess Prediction
+## In development
+This is a university submission for CI603 Data Mining.
